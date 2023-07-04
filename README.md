@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Agarwalsahil
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning Flutter and DSA
 - 💞️ I’m looking to collaborate on open source program
 
 <!---
