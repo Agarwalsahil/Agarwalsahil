@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Agarwalsahil
-- 👀 I’m a Competitive Programming enthusiast with a keen interest in Flutter Development.
+- 👀 I’m a Competitive Programming enthusiast with a good interest in Flutter Development.
 - 🌱 I’m currently learning Flutter and DSA
 
 <!---
